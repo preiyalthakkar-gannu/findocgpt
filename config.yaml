@@ -1,0 +1,9 @@
+qna:
+  top_k: 3
+  quick_questions:
+    - "What is the company’s revenue for the quarter?"
+    - "What are the key risks?"
+    - "What guidance or outlook was provided?"
+
+sentiment:
+  window_sentences: 3
